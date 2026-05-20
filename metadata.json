@@ -1,0 +1,6 @@
+{
+  "name": "SOT Tracker",
+  "description": "Enterprise-grade Cyber Security SOC Dashboard and Productivity Intensity Tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
